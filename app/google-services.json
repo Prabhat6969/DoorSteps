@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "395251401103",
+    "firebase_url": "https://doorsteps-9b29a.firebaseio.com",
+    "project_id": "doorsteps-9b29a",
+    "storage_bucket": "doorsteps-9b29a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395251401103:android:31eaee28c01baf17eb0bfa",
+        "android_client_info": {
+          "package_name": "com.kartikey.doorsteps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395251401103-1dj15lgjblsbs2t2vfvmr03m5tqhio47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kartikey.doorsteps",
+            "certificate_hash": "3648fda62801a5b4747ff55fc895a73c80ed6f9c"
+          }
+        },
+        {
+          "client_id": "395251401103-n3qj9epdighfiedq2ci9ika65at5jsc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPLT5wvCurZDkle116mMNg9GgcAEa9icg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395251401103-n3qj9epdighfiedq2ci9ika65at5jsc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
